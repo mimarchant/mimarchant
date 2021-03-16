@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Miguel Marchant ⚡, Nice meeting you!!
+### Hi there 👋, I'm Miguel Marchant ⚡ Nice meeting you!!
 
 Jr Full-Stack developer
 
