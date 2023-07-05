@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Miguel Marchant ⚡ Nice meeting you!!
 
-Jr Full-Stack developer
+Full-Stack developer
 
-- 🌱 Currently learning Node js
+- 🌱 Currently learning Node js & android
 - 😄 Always looking for new challenges
 
 📫 You can reach me on 
