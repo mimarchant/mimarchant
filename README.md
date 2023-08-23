@@ -11,8 +11,14 @@ Full-Stack developer
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mimarchantt/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mimarchtt@gmail.com)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mimarchant&layout=compact)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mimarchant)
+<div align="center">
+  <a href="https://github.com/mimarchant">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mimarchant&hide=issues&line_height=24" />
+  </a>
+  <a href="https://github.com/mimarchant">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimarchant&layout=compact&langs_count=10" />
+  </a>
+</div>
 
 
 See you around 😄
