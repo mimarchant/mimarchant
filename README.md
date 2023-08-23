@@ -6,7 +6,8 @@ Full-Stack developer
 - 😄 Always looking for new challenges
 
 📫 You can reach me on 
-	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white - https://www.linkedin.com/in/miguel-marchant/
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-marchant/)
+- https://www.linkedin.com/in/miguel-marchant/
 - https://www.instagram.com/mimarchantt/
 
 See you around 😄
