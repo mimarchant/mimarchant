@@ -12,7 +12,6 @@ Full-Stack developer
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mimarchtt@gmail.com)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mimarchant)
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mimarchant&layout=compact)
 
 
